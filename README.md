@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="350" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Woman Working on Laptop">
+  <img width="280" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Woman Working on Laptop">
 </p>
 
 ---
