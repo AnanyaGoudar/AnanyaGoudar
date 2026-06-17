@@ -1,25 +1,71 @@
-[![MaterHead](https://s3.amazonaws.com/thinkific-import/199126/JcrNvjLlQaUbiq11JMQG_8_png)](https://ananyagoudar.io)
-<h1 align="center">Hi 👋, I'm Ananya Goudar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi 👋, I'm Ananya Goudar
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<h3 align="center">AI/ML Engineer | LLM Safety & Differential Privacy | M.S. AI @ Iowa State University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyagoudar&label=Profile%20views&color=0e75b6&style=flat" alt="ananyagoudar" /> </p>
-
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **HTML, CSS and JavaScript**
-
-- 📫 How to reach me **ananyadgoudar@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ananyagoudar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananyagoudar" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Graduate+Research+Assistant+in+AI+Security;Working+on+LLM+Safety+%26+Differential+Privacy;Former+Software+Engineer+with+Industry+Experience;Seeking+AI%2FML+Internship+Opportunities" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyagoudar&show_icons=true&locale=en&layout=compact" alt="ananyagoudar" /></p>
+<img align="right" alt="AI Coding" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyagoudar&" alt="ananyagoudar" /></p>
+## About Me
+
+- 🎓 M.S. in Artificial Intelligence at **Iowa State University**
+- 🔬 Graduate Research Assistant working on **LLM Safety, Jailbreak Defense, and Differential Privacy**
+- 💼 Former Software Engineer at **Ness Digital Engineering**
+- 🤖 Interested in **AI/ML Engineering, Privacy-Preserving ML, and Applied AI Systems**
+- 📫 Reach me at **ananyadgoudar@gmail.com**
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,js,ts,react,angular,spring,django,docker,kubernetes,aws,azure,mongodb,mysql,git,linux" />
+</p>
+
+---
+
+## Research & Projects
+
+### 🔒 LLM Safety & Differential Privacy
+Evaluated jailbreak vulnerabilities in Llama/Vicuna models and explored DP-SGD defenses for reducing unsafe responses.
+
+### 🤖 Agentic AI Predictive Maintenance
+Built an autonomous predictive maintenance system using **LangGraph, AWS Bedrock, Node.js, and MongoDB**.
+
+### 🚨 Real-Time Intrusion Detection
+Developed an AI-powered CCTV intrusion detection system using **OpenCV, Python, PyTorch, and Twilio alerts**.
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ananyagoudar&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyagoudar&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/ananyagoudar">
+    <img src="https://img.shields.io/badge/LinkedIn-Ananya%20Goudar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ananyadgoudar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ananyadgoudar%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://ananyagoudar.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Seeking AI/ML Engineer, Machine Learning Intern, and Applied AI opportunities.</b>
+</p>
