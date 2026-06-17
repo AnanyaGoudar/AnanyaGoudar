@@ -1,24 +1,17 @@
 # Hi 👋, I'm Ananya Goudar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Building+Safe+and+Privacy-Preserving+AI+Systems;Graduate+Research+Assistant+at+Iowa+State+University;LLM+Safety+%7C+Differential+Privacy+%7C+AI+Security;2%2B+Years+of+Software+Engineering+Experience" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=220&section=header&text=Ananya%20Goudar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Safety%20%7C%20Differential%20Privacy&descAlignY=58" />
+  <img width="350" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Woman Working on Laptop">
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 M.S. in Artificial Intelligence at **Iowa State University** (GPA: 4.0/4.0)
+- 🎓 M.S. in Artificial Intelligence at **Iowa State University** 
 - 🔬 Graduate Research Assistant working on **LLM Safety, Jailbreak Defense, and Differential Privacy**
 - 💼 2+ years of Software Engineering experience building scalable systems
-- 🤖 Interested in **AI/ML Engineering, Privacy-Preserving ML, and Applied AI Systems**
-- 📄 Researching privacy-utility tradeoffs in Large Language Models
+- 🤖 Passionate about AI/ML Engineering, LLM Safety, and Privacy-Preserving AI
 - 📫 Reach me at **ananyadgoudar@gmail.com**
 
 ---
@@ -35,7 +28,7 @@
 
 ### 🔒 LLM Safety & Differential Privacy
 
-Research on LLM Safety and Differential Privacy techniques to improve the security and robustness of large language models.
+Evaluating jailbreak vulnerabilities in LLMs and exploring Differential Privacy defenses to improve model safety and robustness.
 
 ### 🤖 Agentic AI Predictive Maintenance System
 
