@@ -41,15 +41,6 @@ Developed an AI-powered CCTV intrusion detection system using **OpenCV, Python, 
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ananyagoudar&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyagoudar&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Connect With Me
 
 <p>
