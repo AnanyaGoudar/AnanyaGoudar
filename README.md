@@ -1,6 +1,10 @@
 # Hi 👋, I'm Ananya Goudar
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Graduate+Research+Assistant+in+AI+Security;Working+on+LLM+Safety+%26+Differential+Privacy;Seeking+AI%2FML+Internship+Opportunities" />
+</p>
+
+<p align="center">
   <img width="350" src="https://media.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif" alt="Woman Working on Laptop">
 </p>
 
